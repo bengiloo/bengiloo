@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bengiloo
-- 👀 I’m interested in basketball and videogames.
-- 🌱 I’m currently learning HTML/CSS/JS/C++
-- 💞️ I’m looking to collaborate on ambitious projects.
-- 📫 How to reach me benjaminluu0824@gmail.com
+- Hi, I’m Benjamin
+- I enjoy cats and doing sports in my free time 
+- Always looking to collaborate on ambitious projects and other topics
+- 📫 Reach me @ benjaminluu0824@gmail.com
   
 
 <!---
